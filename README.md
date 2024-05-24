@@ -68,7 +68,7 @@
   </section>
   <section class="umiejętności">
   <h2> Umiejętności </h2>
-  <p><strong> umiejętność pakowania się w problemy </p></strong>
+  <p><strong> umiejętność pakowania się w problemy</strong></p>
   <p>prawo jazdy kategorii B międzynarodowe</p>
   <h3>Znajomość języków</h3>
   <p>Angielski ojczysty</p>
