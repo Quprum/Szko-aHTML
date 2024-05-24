@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
@@ -15,7 +14,6 @@
   a { color: #007bff; text-decoration: none; }
   a:hover { text-decoration: underline; }
 </style>
-</head>
 <style>
   .profile-photo {
     width: 150px;
