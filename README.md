@@ -59,7 +59,7 @@
   </section>
   <section class="education">
     <h2>Edukacja</h2>
-    <p><strong>Szkoła średnia w Springfield</strong> - ogólny</p>
+    <p><strong>Szkoła średnia w Springfield</strong> - ogólny </p>
     <p>Wrzesień 1979 - Maj 1984</p>
 	<ul>
 		<li>Zachowanie dopuszczające</li>
